@@ -1,0 +1,6 @@
+D:\HỌC KÌ 2(2022-2023)\Nhóm 21\QuanLyTiemGIay\DTO\bin\Debug\DTO.dll
+D:\HỌC KÌ 2(2022-2023)\Nhóm 21\QuanLyTiemGIay\DTO\bin\Debug\DTO.pdb
+D:\HỌC KÌ 2(2022-2023)\Nhóm 21\QuanLyTiemGIay\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HỌC KÌ 2(2022-2023)\Nhóm 21\QuanLyTiemGIay\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HỌC KÌ 2(2022-2023)\Nhóm 21\QuanLyTiemGIay\DTO\obj\Debug\DTO.dll
+D:\HỌC KÌ 2(2022-2023)\Nhóm 21\QuanLyTiemGIay\DTO\obj\Debug\DTO.pdb
