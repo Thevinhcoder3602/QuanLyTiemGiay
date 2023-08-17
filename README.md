@@ -1,4 +1,4 @@
-# Phần mềm quản lý tiệm giày
+# Project nhóm: Phần mềm quản lý tiệm giày
 
 ## Công nghệ được sử dụng
 - Visual Studio 2022, SQL Server Management Studio
