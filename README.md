@@ -1,8 +1,7 @@
 # Project nhóm: Phần mềm quản lý tiệm giày
 
 ## Công nghệ được sử dụng
-- Visual Studio 2022, SQL Server Management Studio
-- Microsoft SQL Server 2019
+- Visual Studio 2022, Microsoft SQL Server Management Studio(SSMS)
 - .NET Framework 4.7.2, ADO.NET
 - Guna Framework
 
